@@ -1,0 +1,4 @@
+nombre
+raza
+edad
+peso
